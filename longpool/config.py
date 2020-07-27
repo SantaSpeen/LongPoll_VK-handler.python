@@ -1,0 +1,1 @@
+LONGPOOL_VERSION: str = "5.120"
