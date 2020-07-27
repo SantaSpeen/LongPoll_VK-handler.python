@@ -1,0 +1,1 @@
+# LongPoll_VK-handler.python
