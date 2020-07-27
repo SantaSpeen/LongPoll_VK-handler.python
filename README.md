@@ -24,9 +24,12 @@
 - Run:
 	- `python3.x Main.py`
 
-<img align="left" width="600" height="100" src="/static/img/start_example.png">
-	
+<p align="left">
+	<img width="600" height="100" src="/static/img/start_example.png">
+</p>
+
 *x - your version of python3*
+
 ## Usage
 
 - In `Main.py`:
